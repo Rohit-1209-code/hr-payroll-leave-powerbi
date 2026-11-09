@@ -1,0 +1,59 @@
+Emp ID,Employee Name,Email,Phone,Department,Join Date,City,Age
+E001,Tanvi Gupta,tanvi.gupta@company.com,9092285142,IT,2019/09/04,New Delhi,25
+E002,Isha Singh,isha.singh@company.com,9921773490,operations,2019/10/19,gurgaon ,twenty eight
+E003,Rohan Verma ,rohan.verma@company.com,+919570930264,Marketing,12-04-2024,Gurugram,thirty
+E004,Karan Verma ,karan.verma@company.com,9549683695,Marketing,11/08/2023,BANGALORE,50
+E005,SIMRAN NAIR,simran.nair@company.com,+91 91064 17952,SALES,2023/08/19,Bangalore,thirty
+E006,Vikram Joshi ,vikram.joshi@company.com,+919308627686,Ops,12-08-2019,Bengaluru,53
+E007,rohan mehta,rohan.mehta@company.com,9949394817,Information Technology,2021/03/27,Gurugram,NA
+E008,Aarav Mehta,aarav.mehta@company.com,+91 98445 90949,marketing ,01-05-2021,MUMBAI,45
+E009,Pooja Joshi,pooja.joshi@company.com,9118034622,Human Resources,02-07-2024,pune,35
+E010,Deepak Sharma ,deepak.sharma@company.com,+919123859888,HR,05/07/2023,Mumbai,thirty
+E011,TANVI PATEL,tanvi.patel@company.com,+91 91491 44224,it,07/01/2023,Mumbai,twenty eight
+E012,MANISH KHAN,manish.khan@company.com,9555810350,Marketing,20-04-2024,BANGALORE,47
+E013,DEEPAK NAIR,deepak.nair@company.com,+919518245037,IT,08-02-2021,BANGALORE,34
+E014,isha joshi,,9430985811,operations,14/03/2022,MUMBAI,thirty
+E015,ananya reddy,ananya.reddy@company.com,+919110350654,Marketing,05/06/2024,Pune,NA
+E016,Sana Singh ,sana.singh@company.com,+91 97506 96831,SALES,2020/10/11,Gurugram,NA
+E017,MANISH GUPTA,manish.gupta@company.com,9508409165,marketing ,25-08-2019,Gurugram,31
+E018,manish sharma,manish.sharma@company.com,+91 98282 89447,FINANCE,25-01-2021,Bombay,54
+E019,manish mehta,manish.mehta@company.com,9130590580,Marketing,09/09/2024,Bombay,thirty
+E020,Vikram Verma ,vikram.verma@company.com,+91 93665 31163,FINANCE,2020/05/05,Bangalore,thirty
+E021,NIKHIL SINGH,nikhil.singh@company.com,+91 95431 77821,Sales,12-12-2019,Bengaluru,NA
+E022,Karan Verma ,karan.verma@company.com,+91 96651 29577,Human Resources,25-01-2021,Bangalore,NA
+E023,VIVAAN GUPTA,vivaan.gupta@company.com,9283952089,it,21-01-2021,delhi ,38
+E024,DEEPAK GUPTA,deepak.gupta@company.com,9334999291,HR,04-04-2024,Gurgaon,25
+E025,Arjun Sharma ,arjun.sharma@company.com,+919114118726,sales,24/01/2019,New Delhi,54
+E026,MEERA SINGH,meera.singh@company.com,+91 90233 19269,Sales,24/12/2025,Mumbai,30
+E027,POOJA KHAN,pooja.khan@company.com,+919478700535,operations,2023/04/23,Bangalore,51
+E028,Karan Sharma,,+91 93292 42529,Sales,2021/03/01,Mumbai,52
+E029,Pooja Reddy ,pooja.reddy@company.com,+919958637952,HR,10/05/2019,Pune,27
+E030,Kavya Joshi ,kavya.joshi@company.com,+919142907728,operations,25/09/2020,Gurugram,23
+E031,MANISH SINGH,manish.singh@company.com,9800719241,IT,26-08-2019,Bengaluru,54
+E032,riya mehta,,+91 94987 91415,IT,10-11-2022,delhi ,31
+E033,SANA VERMA,sana.verma@company.com,9500727853,Ops,10/08/2024,Mumbai,thirty
+E034,VIKRAM MEHTA,vikram.mehta@company.com,9802607174,hr,13-05-2022,Gurugram,26
+E035,Sahil Mehta,sahil.mehta@company.com,+919446871154,IT,16/01/2020,delhi ,NA
+E036,Tanvi Joshi ,tanvi.joshi@company.com,+919934125241,Human Resources,2024/01/24,MUMBAI,thirty
+E037,Isha Sharma ,isha.sharma@company.com,+91 97008 13802,operations,2024/03/08,BANGALORE,54
+E038,MEERA VERMA,meera.verma@company.com,+919183355162,hr,25-10-2022,pune,twenty eight
+E039,Karan Patel ,karan.patel@company.com,9972767043,it,04-07-2024,Gurgaon,twenty eight
+E040,Ananya Khan ,ananya.khan@company.com,9277409322,finance ,11/03/2019,Bombay,37
+E041,meera joshi,meera.joshi@company.com,+919848590932,SALES,2025/01/16,Bangalore,twenty eight
+E042,nikhil patel,nikhil.patel@company.com,+919995173203,HR,2019/07/23,Mumbai,thirty
+E043,ANANYA KHAN,ananya.khan@company.com,9839986751,operations,23/12/2025,delhi ,51
+E044,KAVYA JOSHI,kavya.joshi@company.com,+91 90018 11371,Ops,10/02/2019,delhi ,46
+E045,karan mehta,karan.mehta@company.com,+919950098865,marketing ,2023/04/01,Mumbai,25
+E046,Sahil Sharma ,sahil.sharma@company.com,9793633959,Ops,12/07/2024,Bengaluru,22
+E047,Karan Mehta ,,9447781560,Finance,04/05/2025,BANGALORE,thirty
+E048,Ananya Joshi ,,+91 93039 95520,Human resources,15/07/2020,delhi ,29
+E049,Tanvi Mehta ,,+919222696669,finance ,09-02-2019,delhi ,twenty eight
+E050,Meera Nair,meera.nair@company.com,+919671527054,Marketing,12/06/2020,pune,23
+E051,Meera Verma,meera.verma@company.com,9319337133,Marketing,11/05/2021,Bangalore,42
+E052,RIYA JOSHI,riya.joshi@company.com,+919162473494,SALES,2025/08/05,Pune,NA
+E053,Kavya Singh,kavya.singh@company.com,+919948623657,it,03/07/2020,MUMBAI,52
+E054,RIYA GUPTA,riya.gupta@company.com,+919608687287,Finance,20/08/2022,Mumbai,40
+E055,Karan Singh,,+919248443396,FINANCE,11-04-2023,Bengaluru,twenty eight
+E005,SIMRAN NAIR,simran.nair@company.com,+91 91064 17952,SALES,2023/08/19,Bangalore,thirty
+E018,manish sharma,manish.sharma@company.com,+91 98282 89447,FINANCE,25-01-2021,Bombay,54
+E031,MANISH SINGH,manish.singh@company.com,9581355402,IT,26-08-2019,Bengaluru,54

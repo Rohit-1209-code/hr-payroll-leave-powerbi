@@ -1,0 +1,7 @@
+Dept ID,Dept Name,Manager,Location,Budget
+D01,Human Resources,Neha Kapoor,Gurugram,"1,200,000.00"
+D02,Finance,Rajesh Iyer,Mumbai,"2,000,000.00"
+D03,Sales,Sanjay Malhotra,Delhi,"3,500,000.00"
+D04,IT,Divya Menon,Bangalore,"5,000,000.00"
+D05,Marketing,Kabir Anand,Mumbai,"1,800,000.00"
+D06,Operations,Pooja Desai,Pune,null
